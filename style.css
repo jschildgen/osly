@@ -1,0 +1,53 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #FFFFFF;
+	color: #000000;
+}
+#title {
+	font-size: 18pt;
+	font-weight: bold;
+	font-variant: small-caps;
+}
+#author {
+	font-size: medium;
+	font-style: italic;
+	background-color: #FFFFFF;
+}
+
+#presentation, #hymn_number, #time_sig, #tempo, #key, #aka, #copyright, #ccli, #themes, #key_line, #user1, #user2, #user3, #capo {
+	font-size: xx-small;
+	font-weight: normal;
+	font-style: italic;
+}
+.chords {
+	font-size: 14.5pt;
+	font-weight: bold;
+}
+.capochords {
+	font-size: 14.5pt;
+	font-style: italic;
+}
+.comment {
+	font-size: 13pt;
+	font-style: italic;
+}
+.heading {
+	font-size: 14.5pt;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.lyrics {
+	font-size: 14.5pt;
+}
+#song_list {
+	list-style-type: square;
+}
+a {
+	text-decoration: none;
+	color: #000000;
+}
+.opensong {
+	font-size: xx-small;
+	font-style: italic;
+}
