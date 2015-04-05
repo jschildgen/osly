@@ -5,6 +5,8 @@ A script written in PHP to add lilypond music snipples into OpenSong chord sheet
 2. Export OpenSong sheet to HTML
 3. run the following command: php osly.php song.html
 
+Requirements: php, lilypond, opensong
+
 Lilypond compiles the embedded lilypond code snippets into PNG files. 
 
 Example snippet:
