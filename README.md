@@ -17,13 +17,13 @@ Example snippet:
  La la la la la la la la la la la la la la la.
 
 ;<<
-; \transpose c f { \chords { \set noChordSymbol = ##f r4 a2:m d4:m g:7 c1 } }
-; \transpose c f { \relative c' {
-; \key c \major
-; \partial 4 e8^"rit."( d)
-; c4. a8 a4( g)
-; c1 \bar "|."
-; } }
+; \chords { \set noChordSymbol = ##f r4 d2:m g4:m c:7 f1 }
+; \relative c'' {
+; \key f \major
+; \partial 4 a8^"rit."( g)
+; f4. d8 d4( c)
+; f1 \bar "|."
+; }
 ;>>
 ```
 
