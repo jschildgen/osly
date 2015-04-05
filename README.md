@@ -9,6 +9,7 @@ Lilypond compiles the embedded lilypond code snippets into PNG files.
 
 Example snippet:
 
+```
 [V2]
 .   F           C7       A7    Dm    Gm C7 F
  La la la la la la la la la la la la la la la.
@@ -22,8 +23,9 @@ Example snippet:
 ; c1 \bar "|."
 ; } }
 ;>>
+```
 
 The result will look like this:
 
-![Result HTML](https://raw.github.com/jschildgen/osly/master/osly_prev.png)
+![Result HTML](https://raw.github.com/jschildgen/osly/master/osly_preview.png)
 
